@@ -1,2 +1,0 @@
-To activate venv: venv\Scripts\activate
-huggingface_token=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
