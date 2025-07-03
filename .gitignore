@@ -1,0 +1,17 @@
+# Node.js / React Projects
+node_modules/
+dist/
+.env
+*.log
+
+# Python Projects
+__pycache__/
+*.pyc
+.env
+
+# VS Code Settings (optional)
+.vscode/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
